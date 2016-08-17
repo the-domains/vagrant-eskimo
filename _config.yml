@@ -1,0 +1,14 @@
+layout_spectrum: 0.7898663061205298
+typography_spectrum: 0.16852998570539057
+color:
+  brandStrength: 0.5980448168702424
+  lightness: 0.6664490215480328
+  saturation: 0.1294950160663575
+  rhythmicContrast: 0.8174572605639696
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: vagrant eskimo
